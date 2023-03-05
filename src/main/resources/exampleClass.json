@@ -1,0 +1,42 @@
+{
+    "oneDimensionArray": [
+        1,
+        2,
+        3
+    ],
+    "twoDimensionArray": [
+        [
+            "a",
+            "b",
+            "c"
+        ],
+        [
+            "d",
+            "e",
+            "f"
+        ]
+    ],
+    "alist": [
+        "hello",
+        "world",
+        "!"
+    ],
+    "anEnum": "FIRST",
+    "innerObject": {
+        "oneDimensionArray": null,
+        "twoDimensionArray": null,
+        "alist": null,
+        "anEnum": null,
+        "innerObject": null,
+        "astring": "inner",
+        "adouble": 6.8,
+        "anull": null,
+        "aboolean": true,
+        "achar": "j"
+    },
+    "astring": "qwe",
+    "adouble": 100.0,
+    "anull": null,
+    "aboolean": true,
+    "achar": "c"
+}
